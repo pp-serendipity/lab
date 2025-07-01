@@ -142,3 +142,9 @@ body {
   
   z-index: 1;
 }
+.page-section{
+    display:none;
+}
+.page-section.active{
+    display: block;
+}
